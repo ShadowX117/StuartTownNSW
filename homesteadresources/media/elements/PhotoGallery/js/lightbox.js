@@ -81,9 +81,9 @@
 //   fileLoadingImage and fileBottomNavCloseImage with absolute URLs.  This is 
 //   unnecessary, and QS38+ pages use the defaults defined here instead.
 //
-var fileLoadingImage = "/~media/elements/PhotoGallery/images/loading.gif";		
-var fileBottomNavCloseImage = "/~media/elements/PhotoGallery/images/closelabel.gif";
-var fileBottomNavCloseImageOver = "/~media/elements/PhotoGallery/images/closelabel_over.gif";
+var fileLoadingImage = "homesteadresources/media/elements/PhotoGallery/images/loading.gif";		
+var fileBottomNavCloseImage = "homesteadresources/media/elements/PhotoGallery/images/closelabel.gif";
+var fileBottomNavCloseImageOver = "homesteadresources/media/elements/PhotoGallery/images/closelabel_over.gif";
 
 var overlayOpacity = 0.8;	// controls transparency of shadow overlay
 
